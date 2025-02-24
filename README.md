@@ -37,7 +37,7 @@ cd backend
 docker-compose up --build
 ```
 This will:
-- Start a Laravel API server on **`http://localhost:8000`**.
+- Start a Laravel API server on **`http://localhost`**.
 - Enable CORS for frontend access.
 
 #### ✅ Install Laravel Dependencies (If Not Using Docker)
